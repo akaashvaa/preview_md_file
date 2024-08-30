@@ -8,7 +8,7 @@ setup(
     description='A simple Markdown preview tool for the terminal.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/akaashvaa/mdm',
+    url='https://github.com/akaashvaa/preview_md_file',
     packages=find_packages(),
     install_requires=[
         'markdown',
