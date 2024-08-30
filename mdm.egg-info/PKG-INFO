@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: mdm
+Version: 1.0.0
+Summary: A simple Markdown preview tool for the terminal.
+Home-page: https://github.com/akaashvaa/mdm
+Author: Akash Verma
+Author-email: ahmvaad@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# mdm
+
+`mdm` is a simple Markdown preview tool for the terminal. It allows you to quickly view the content of Markdown files directly in your terminal with formatted output.
+
+## Installation
+
+You can install `mdm` using pip:
+
+```bash
+pip install mdm
+
+
+
