@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='md_preview022',
-    version='1.0.0',
+    version='1.0.1',
     author='Akash Verma',
     author_email='ahmvaad@gmail.com',
     description='A simple Markdown preview tool for the terminal.',
