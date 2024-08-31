@@ -2,13 +2,27 @@
 
 `mdm` is a simple Markdown preview tool for the terminal. It allows you to quickly view the content of Markdown files directly in your terminal with formatted output.
 
+## Installation
+
+- You can install `md_preview022` using pip:
+
+```bash
+pip install md_preview022
+```
+
+- example :
+
+```bash
+   mdm path/to/your/README.md
+```
+
 ## Development Setup
 
 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/akaashvaa/preview_md_file.git
-   cd mdm
+   cd preview_md_file
    ```
 
 2. **Install the Package Locally**
@@ -38,4 +52,3 @@
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-

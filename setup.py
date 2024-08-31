@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='mdm',
+    name='md_preview022',
     version='1.0.0',
     author='Akash Verma',
     author_email='ahmvaad@gmail.com',
